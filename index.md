@@ -1,4 +1,13 @@
 
+[![CRAN
+status](https://www.r-pkg.org/badges/version/midrangeMCP)](https://CRAN.R-project.org/package=SMR)
+[![](https://cranlogs.r-pkg.org/badges/SMR?color=orange)](https://cran.r-project.org/package=SMR)
+[![Last-changedate](https://img.shields.io/badge/last%20change-2022--05--04-yellowgreen.svg)](https://github.com/bendeivide/SMR/commit/master)
+[![codecov](https://codecov.io/gh/bendeivide/SMR/branch/master/graph/badge.svg)](https://codecov.io/gh/bendeivide/SMR)
+<!-- [![Build Status](https://travis-ci.com/bendeivide/SMR.svg?branch=master)](https://travis-ci.com/bendeivide/SMR) -->
+[![Lifecycle:
+stable](https://img.shields.io/badge/lifecycle-maturing-brightgreen.svg)](https://www.tidyverse.org/lifecycle/#maturing)
+
 # <i class="fas fa-box-open" aria-hidden="true"></i> SMR <img src='man/figures/logo.png' align="right" width="139" style="float:right; width:139px;"/>
 
 [SMR](https://bendeivide.github.io/midrangeMCP/) is an R packago aim to
