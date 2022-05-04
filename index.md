@@ -1,5 +1,5 @@
 
-# <i class="fas fa-box-open" aria-hidden="true"></i> SMR <img src='man/figures/logo.png' align="right" height="139" />
+# <i class="fas fa-box-open" aria-hidden="true"></i> SMR <img src='man/figures/logo.png' align="right" width="139" style="float:right; width:139px;"/>
 
 [SMR](https://bendeivide.github.io/midrangeMCP/) is an R packago aim to
 compute studentized normal midrange distribution. [In 2017, this

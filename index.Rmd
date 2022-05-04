@@ -13,7 +13,7 @@ knitr::opts_chunk$set(
 )
 ```
 
-# <i class="fas fa-box-open" aria-hidden="true"></i> SMR <img src='man/figures/logo.png' align="right" height="139" style="float:right; height:139px;"/>
+# <i class="fas fa-box-open" aria-hidden="true"></i> SMR <img src='man/figures/logo.png' align="right" width="139" style="float:right; width:139px;"/>
 
 [SMR](https://bendeivide.github.io/midrangeMCP/) is an R packago aim to compute studentized normal midrange distribution. [In 2017, this distribution was published in the Revista Ciência e Agrotecnologia](http://repositorio.ufla.br/bitstream/1/29962/1/ARTIGO_Externally%20studentized%20normal%20midrange%20distribution.pdf). This work was developed during the master in Statistics and Agricultural Experimentation, by the [Federal University of Lavras](https://ufla.br/) (UFLA/BRAZIL). The authors of this work are Professor [Daniel Furtado Ferreira](http://www.dex.ufla.br/~danielff/) and [Ben Dêivide de Oliveira Batista](http://bendeivide.github.io), Professor of Statistics at the [Federal University of São João del-Rei](https://ufsj.edu.br/) (UFSJ/BRAZIL). Today, we have the collaboration of a student of scientific initiation, [Diego Arthur Bispo Justino de Oliveira](https://digoarthur.github.io/), student of Mechatronics Engineering at UFSJ and [Matheus Fernando Rodrigues Santos](), student of Mechatronics Engineering at UFSJ. [The package was published in 2014 in R journal](https://journal.r-project.org/archive/2014/RJ-2014-029/index.html)
 
