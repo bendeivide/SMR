@@ -1,15 +1,16 @@
 Package: SMR
 Title: Externally Studentized Midrange Distribution
-Version: 2.0.2.9000
-Date: 2014-10-20
+Version: 2.1.0.9000
 Authors@R: c(
     person("Ben", "Deivide", email = "ben.deivide@ufsj.edu.br", 
     role = c("aut"), comment = c(ORCID = '0000-0001-7019-8794')),
-    person("Daniel", "Furtado", email = "danielff@dex.ufla.br", role = c("aut", "cre"),
+    person("Daniel", "Furtado", email = "danielff@ufla.br", role = c("aut", "cre"),
     comment = c(ORCID = '0000-0002-4371-5239')),
     person("Diego", "Arthur", email = "digo.arthur@hotmail.com", role = "ctb"),
     person("Matheus", "Fernando", email = "matheusfers3500@gmail.com", role = "ctb"))
-Maintainer: Daniel Furtado Ferreira <danielff@dex.ufla.br>
 Description: Computes the studentized midrange distribution (pdf, cdf and quantile) and generates random numbers.
 License: GPL (>= 2)
-URL: www.dex.ufla.br/~danielff/r_resources.html
+URL: https://bendeivide.github.io/SMR/, https://github.com/bendeivide/SMR
+BugReports: https://github.com/bendeivide/SMR/issues
+LinkingTo: Rcpp
+RoxygenNote: 7.1.2

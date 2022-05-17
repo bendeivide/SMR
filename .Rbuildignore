@@ -2,3 +2,10 @@
 ^\.Rproj\.user$
 docs
 logo.png
+\.Rhistory
+pkgdown
+index\.Rmd
+index\.md
+\.gitignore
+\_\.pkgdown\.yml
+logo

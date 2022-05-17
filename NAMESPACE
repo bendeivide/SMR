@@ -1,2 +1,5 @@
-export(dSMR, pSMR, qSMR, rSMR)
+importFrom("stats", "dnorm", "pnorm", "rchisq", "rnorm")
+importFrom("Rcpp", "sourceCpp")
+exportPattern("^[^\\.]")
+useDynLib(SMR)
 

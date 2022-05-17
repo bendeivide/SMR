@@ -3,12 +3,12 @@
 # quadrature, where size is the number of points. It uses the  #
 # Golub-Welsh algorithm                                     #
 #############################################################
-GaussLegendre <- function(size) 
+GaussLegendre <- function(size)
 {
   size <- as.integer(size)
-  if (size < 0) 
+  if (size < 0)
     stop("Must be a non-negative number of nodes!")
-  if (size == 0) 
+  if (size == 0)
      return(list(x = numeric(0), w = numeric(0)))
   i  <- 1:size
   j   <- 1:(size-1)
